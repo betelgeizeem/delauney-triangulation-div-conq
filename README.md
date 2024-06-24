@@ -4,12 +4,16 @@ Delauney triangulation using divide&amp;conquer-type algorithm, $\textrm{O}(N \t
 THE CODE IS NOT CHECKED THOROUGHFULLY and is posted as an unfinished training project. It may possess memory leaks etc. To be fixed. Use carefully!
 
 ## Results:
+40 points:
 ![40 points](samples_40.png)
 
+200 points:
 ![200 points](samples_200.png)
 
+1000 points:
 ![1000 points](samples_1000.png)
 
+5000 points:
 ![5000 points](samples_5000.png)
 
 ## How it works: 
