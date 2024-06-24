@@ -1,7 +1,7 @@
 # delauney-triangulation-div-conq
 Delauney triangulation using divide&amp;conquer-type algorithm, $\textrm{O}(N \textrm{log}(N))$ computational efficiency in worst and average cases.
 
-THE CODE IS NOT CHECKED THOROUGHFULLY and is posted as an unfinished training project. It may possess memory leaks etc. To be fixed.
+THE CODE IS NOT CHECKED THOROUGHFULLY and is posted as an unfinished training project. It may possess memory leaks etc. To be fixed. Use carefully!
 
 ## Results:
 ![40 points](samples_40.png)
