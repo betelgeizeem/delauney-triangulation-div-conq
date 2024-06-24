@@ -9,9 +9,9 @@ endif()
 project ("DelauneyTriangulationDivConq")
 
 add_executable (DelauneyTriangulationDivConq 
-"main.cpp" 
-"DelauneyTriangulationDivConq.cpp" 
-"double2.cpp")
+"sources/main.cpp" 
+"sources/DelauneyTriangulationDivConq.cpp" 
+"sources/double2.cpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET DelauneyTriangulationDivConq PROPERTY CXX_STANDARD 17)

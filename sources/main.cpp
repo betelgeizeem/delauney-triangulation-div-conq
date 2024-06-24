@@ -6,7 +6,7 @@ int main(int argc, char** argv)
 {
     std::vector<double2> points;
 
-    const auto n = 5000;
+    const auto n = 20;
     const double A = 10.;
 
     std::random_device rd;
